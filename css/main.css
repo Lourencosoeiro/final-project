@@ -203,7 +203,6 @@ body {
 
 .about-progress {
   min-height: 50vh;
-  outline: 5px solid #10429e;
   outline-offset: 10px;
 }
 
@@ -250,7 +249,7 @@ body {
 }
 
 .search-link:hover {
-  color: #242424;
+  color: #ff670f;
 }
 
 .img-container:hover .search-link {
@@ -281,8 +280,7 @@ h5 {
   color: #ffffff;
 }
 
-.fa-medal {
-  font-size: 3rem;
+
 }
 
 /* Custom bootstrap cards css */
